@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="20" />
+    <histories>
+      <item value="属性" />
+      <item value="indent" />
+      <item value="ident" />
+      <item value="determine" />
+      <item value="sentinels" />
+      <item value="hit back" />
+      <item value="打回后台" />
+      <item value="打回后台数量" />
+      <item value="calculate" />
+      <item value="计算" />
+      <item value="wrap" />
+      <item value="model" />
+      <item value="反解析" />
+      <item value="authentic" />
+      <item value="Auth" />
+      <item value="待审核" />
+      <item value="剩余" />
+      <item value="默认加载" />
+      <item value="原题" />
+      <item value="Approve" />
+    </histories>
+  </component>
+</application>

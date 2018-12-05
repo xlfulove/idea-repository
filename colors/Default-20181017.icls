@@ -1,0 +1,29 @@
+<scheme name="Default-20181017" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-10-17T09:44:18</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.1.0.0</property>
+    <property name="modified">2018-10-17T09:44:43</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
