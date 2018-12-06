@@ -15,7 +15,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="psfs" value="/**&#10;*$VAR2$&#10;*/&#10;private static final String $VAR1$;&#10;$AND$" description="private static final String field;" toReformat="false" toShortenFQNames="true">
+  <template name="psfs" value="/**&#10;*$VAR2$&#10;*/&#10;private static final String $VAR1$;&#10;&#10;$AND$" description="private static final String field;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="AND" expression="" defaultValue="" alwaysStopAt="true" />
