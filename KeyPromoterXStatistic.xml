@@ -550,7 +550,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>2</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -918,7 +918,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -998,6 +998,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tomcat-8.5'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1382,6 +1390,14 @@
           <IdeaActionID>EditorUnindentSelection</IdeaActionID>
           <ShortCut>'Shift+Tab'</ShortCut>
           <Description>Unindent Line or Selection</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unwrap/Remove...">
+        <Item>
+          <IdeaActionID>Unwrap</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Delete'</ShortCut>
+          <Description>Unwrap/Remove...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
