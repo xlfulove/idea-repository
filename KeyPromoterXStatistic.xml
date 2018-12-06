@@ -553,6 +553,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Highlight Usages in File">
+        <Item>
+          <IdeaActionID>HighlightUsagesInFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F7'</ShortCut>
+          <Description>Highlight Usages in File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Home Directory">
         <Item>
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
