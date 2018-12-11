@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'jetty-server'</Description>
-          <Count>173</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'local'">
@@ -366,7 +366,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'tomcat'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tomcat-7'">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'jetty-server'</Description>
-          <Count>202</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tomcat'</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat-7'">
