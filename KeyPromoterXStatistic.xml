@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1193</Count>
+          <Count>1198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>616</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unindent Line or Selection">
