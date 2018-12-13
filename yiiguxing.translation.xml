@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="wait" />
+      <item value="await" />
+      <item value="待" />
+      <item value="待审核" />
       <item value="Redundant" />
       <item value="封装" />
       <item value="id" />
@@ -18,10 +22,6 @@
       <item value="wrap" />
       <item value="model" />
       <item value="反解析" />
-      <item value="authentic" />
-      <item value="Auth" />
-      <item value="待审核" />
-      <item value="剩余" />
     </histories>
   </component>
 </application>
