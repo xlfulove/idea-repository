@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="complete" />
+      <item value="完成" />
       <item value="wait" />
       <item value="await" />
       <item value="待" />
@@ -20,8 +22,6 @@
       <item value="calculate" />
       <item value="计算" />
       <item value="wrap" />
-      <item value="model" />
-      <item value="反解析" />
     </histories>
   </component>
 </application>
