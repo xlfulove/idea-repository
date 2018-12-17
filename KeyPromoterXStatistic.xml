@@ -38,7 +38,7 @@
           <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
           <ShortCut>'Ctrl+Shift+S'</ShortCut>
           <Description>Analyze with SonarLint</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -86,7 +86,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -94,7 +94,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -1518,7 +1518,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
     </option>
