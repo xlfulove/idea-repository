@@ -1286,7 +1286,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'jetty-server'</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">
