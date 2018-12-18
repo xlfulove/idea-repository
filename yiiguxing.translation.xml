@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="失败" />
       <item value="耗时" />
       <item value="粘贴" />
       <item value="complete" />
@@ -21,7 +22,6 @@
       <item value="hit back" />
       <item value="打回后台" />
       <item value="打回后台数量" />
-      <item value="calculate" />
     </histories>
   </component>
 </application>
