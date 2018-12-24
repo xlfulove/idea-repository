@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift alt m" />

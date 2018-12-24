@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'jetty-server'</Description>
-          <Count>210</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'local'">
@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1321</Count>
+          <Count>1337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -510,7 +510,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find...">
@@ -609,6 +609,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven Projects">
+        <Item>
+          <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Maven Projects</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
@@ -686,7 +694,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>261</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -1086,7 +1094,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -1286,7 +1294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'jetty-server'</Description>
-          <Count>246</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'local'">
@@ -1446,7 +1454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>706</Count>
+          <Count>707</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unindent Line or Selection">
