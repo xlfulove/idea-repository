@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1295</Count>
+          <Count>1297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -686,7 +686,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
