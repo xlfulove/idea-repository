@@ -94,7 +94,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>150</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1350</Count>
+          <Count>1362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -598,7 +598,7 @@
           <IdeaActionID>BMPOJOtoJson.Convert2</IdeaActionID>
           <ShortCut>'Meta+Alt+Shift+J'</ShortCut>
           <Description>MakeJson</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
