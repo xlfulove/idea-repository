@@ -1534,7 +1534,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
     </option>
