@@ -94,7 +94,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>149</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'jetty-server'</Description>
-          <Count>215</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'local'">
@@ -609,6 +609,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Maven</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven Projects">
         <Item>
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
@@ -694,7 +702,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>272</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -1094,7 +1102,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -1398,7 +1406,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
