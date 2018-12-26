@@ -94,7 +94,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>153</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -958,7 +958,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -966,7 +966,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'jetty-server' application</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
     </option>
