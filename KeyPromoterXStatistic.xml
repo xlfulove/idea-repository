@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1367</Count>
+          <Count>1370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -958,7 +958,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>221</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>714</Count>
+          <Count>718</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unindent Line or Selection">
