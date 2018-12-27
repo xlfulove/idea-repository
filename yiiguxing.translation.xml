@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="要求" />
       <item value="简单" />
       <item value="账号" />
       <item value="有趣的" />
@@ -21,7 +22,6 @@
       <item value="属性" />
       <item value="indent" />
       <item value="ident" />
-      <item value="determine" />
     </histories>
   </component>
 </application>
